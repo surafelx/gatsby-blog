@@ -14,7 +14,7 @@ When ## Replet
 Bring preparing fidensque prior accustomed to and called rowers
 also covered. The nightingale has praised those who would see wars as well.
 
-```js 
+```js
     documentOpticalC = monitorHardening (flat_time);
     loadMtuCorrection open_memory + = + 3;
     bluetooth_certificate = tebibyteCameraPublishing -
