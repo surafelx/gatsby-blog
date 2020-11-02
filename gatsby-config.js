@@ -1,5 +1,13 @@
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: "My MDX Blog",
+    description: "Simple blog",
+    url: "https://srflx.surge.sh",
+    image: "/tree.jpg",
+    twitterUsername: "@surafelx",
+    author: "SRFL",
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
